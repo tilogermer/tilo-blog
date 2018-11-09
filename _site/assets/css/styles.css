@@ -1,0 +1,15 @@
+.current {
+  color: #424242; }
+
+body {
+  display: flex;
+  min-height: 100vh;
+  flex-direction: column; }
+
+main {
+  flex: 1 0 auto;
+  margin-left: 30px;
+  margin-right: 30px; }
+
+nav a {
+  margin-left: 20px; }
