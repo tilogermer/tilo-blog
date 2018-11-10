@@ -17,3 +17,6 @@ defaults:
       path: ""
     values:
       layout: "default"
+
+baseurl: "/tilo-blog"
+url: "http://tilogermer.github.io"
